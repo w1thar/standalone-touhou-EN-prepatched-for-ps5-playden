@@ -1,0 +1,8 @@
+# game data and generated packages never go in this repo
+*.exe
+*.dat
+*.cfg
+*.dll
+out/
+test/
+__pycache__/
