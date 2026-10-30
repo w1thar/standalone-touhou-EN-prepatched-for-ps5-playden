@@ -4,7 +4,8 @@ Turns **your own** copy of Touhou 8 (Imperishable Night) or Touhou 11 (Subterran
 with [thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center), into a folder that
 [Playden](https://github.com/leolobato/playden-ps5) can run on a jailbroken PS5.
 
-**No game files are included.** You need the original games.
+**No game files are included.** You need the original games. 
+Recommendation: (Moriya Shrine)[https://moriyashrine.org/resources/]
 
 ## Why this is needed
 
@@ -78,12 +79,13 @@ The first two must be the same file, or Playden puts the generic icon back. Rebo
 
 thcrap writes its log to `thcrap/logs/thcrap_log.txt` in the game folder. On a crash it ends with the exception and
 the address, which is the first thing to look at. Playden's own logs are in `/data/playden/logs/`.
+WHEN USING FILEZILLA OR PROSPEROMANAGER BE CAREFUL ABOUT CHANGING PERMISSIONS BECAUSE PLAYDEN ONLY WORKS WITH SPECIFIC PERMISSION LEVELS ON FILES/FOLDERS SO DON'T FORGET TO SET THOSE BACK (so if a file had the file permission of 644 then remember to set it back to that after you're done with it)
 
 ## Status
 
 | Game | Status |
 |---|---|
 | Touhou 11 v1.00a | Works on PS5 (Playden) with the English patch. |
-| Touhou 8 v1.00d | Starts and reaches the title screen on PS5. The exe-check fix for starting a game is new; please report results. |
+| Touhou 8 v1.00d | Starts and reaches the title screen on PS5. The exe-check fix for starting a game is new; but mostly works. |
 
 Not affiliated with Team Shanghai Alice, the Touhou Patch Center or Playden.
