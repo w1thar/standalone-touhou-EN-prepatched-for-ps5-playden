@@ -5,7 +5,7 @@ with [thcrap](https://www.thpatch.net/wiki/Touhou_Patch_Center), into a folder t
 [Playden](https://github.com/leolobato/playden-ps5) can run on a jailbroken PS5.
 
 **No game files are included.** You need the original games. 
-Recommendation: (Moriya Shrine)[https://moriyashrine.org/resources/]
+Recommendation: [Moriya Shrine](https://moriyashrine.org/resources/)
 
 ## Why this is needed
 
